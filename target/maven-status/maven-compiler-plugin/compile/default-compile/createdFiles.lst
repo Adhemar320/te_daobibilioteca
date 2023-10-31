@@ -1,0 +1,6 @@
+com\emergentes\dao\BibliotecaDAO.class
+com\emergentes\controlador\LibroController.class
+com\emergentes\dao\CateDAO.class
+com\emergentes\modelo\libros.class
+com\emergentes\utiles\ConexionBD.class
+com\emergentes\dao\BibliotecaDAOimpl.class
